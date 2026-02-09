@@ -1,5 +1,5 @@
 body {
   background-image: url("Picking-flowers.jpg");
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
 }
