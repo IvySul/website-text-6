@@ -3,8 +3,8 @@ body {
   background-size: cover;
   align-content: center;
   background-repeat: no-repeat;
-  font-family: template gothic;
-   min-height: 100vh;
+  font-family: ITC American Typewriter;
+   max-height: 100vh;
 }
 a {
   text-decoration: none; 
